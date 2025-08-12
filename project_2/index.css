@@ -62,3 +62,15 @@ body {
     margin: left 10px;
     margin-right: 10px;
 }
+.section{padding: 20px;
+    width: 800px;
+margin: 0 auto;}
+
+.section-title{font-size: 24px;
+font-weight: bold;}
+
+.section-img{height: 300px;
+width: 300px;
+border-radius: 5px;
+margin-top: 10px;
+margin-bottom: 10px;}
