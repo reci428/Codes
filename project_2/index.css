@@ -74,3 +74,12 @@ width: 300px;
 border-radius: 5px;
 margin-top: 10px;
 margin-bottom: 10px;}
+
+.footer{background-color: blue;
+    text-align: center;
+text-decoration: aqua;
+padding: 20px;
+}
+
+.footer-text{color:white;
+font-size: 20px;}
